@@ -1,11 +1,18 @@
-# Back-End Developer
+# Olá, seja bem-vindo(a)! Eu sou o Alexsandro Rodrigues e aqui você encotra alguns dos meus projetos!
 
-## Techs:
+## Techs
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80" align=center />
-<img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/maven/maven-original.svg" alt="Maven" width="80" align=center />
- <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="80" align=center />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="80" align=center />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" width="80" align=center />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" height="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring"  height="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/maven/maven-original.svg" alt="Maven" height="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" height="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/hibernate/hibernate-original.svg" alt="Hibernate"  height="100"/>
 </div>
+
+## Estatisticas
+<div>
+<img widht="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandev&layout=compact&theme=dark" alt=alexsandev" />
+</div>
+
+
 
