@@ -9,10 +9,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/hibernate/hibernate-original.svg" alt="Hibernate"  height="100"/>
 </div>
 
-## Estatisticas
-<div>
-<img widht="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandev&layout=compact&theme=dark" alt=alexsandev" />
-</div>
 
 
 
