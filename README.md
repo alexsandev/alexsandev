@@ -1,8 +1,7 @@
 # Olá, meu nome é Alexsandro
 
-
 ### Sobre mim
-- :seedling: Atualmente estou buscando aperfeiçoar minhas habilidades em Engenharia de Softawre.
+- :seedling: Atualmente estou buscando aperfeiçoar minhas habilidades em Engenharia de Software.
 - :wrench: A principal linguagem de programação com que tenho trabalhado é o C# e sua plataforma .NET Core.
 - :books: Graduando em Engenharia de Computação.
 - :mortar_board: Técnologo em Analise e Desenvolvimento de Sistemas.
